@@ -1,4 +1,4 @@
--Hi, I’m Graham Clifford
--I’m interested in robotics and mechatronics
--I’m currently studying for the GRE and building an autonomous drone
+- Hi, I’m Graham Clifford
+- I’m interested in robotics and mechatronics
+- I’m currently studying for the GRE and building an autonomous drone
 - you can reach me at gjcliff@gmail.com
