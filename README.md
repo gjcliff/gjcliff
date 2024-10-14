@@ -1,3 +1,0 @@
-- Hi, I’m Graham Clifford
-- I like robotics and tinkering.
-- you can reach me at gjcliff@gmail.com
