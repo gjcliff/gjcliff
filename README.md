@@ -57,11 +57,19 @@
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=gjcliff&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
+
+<!-- <div class="centered-div" style="outline: 2px solid black;"> -->
+<!--   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source"> -->
+<!--       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=gjcliff&theme=radical&&no-bg=true&title=-Experience,-Reviews" alt="TROPHY" /> -->
+<!--     </a> -->
+<!-- </div> -->
+<!-- <style> -->
+<!-- .centered-div { -->
+<!--     width: 100%; -->
+<!--     text-align: center; -->
+<!-- } -->
+<!-- </style> -->
+
 <!--- trophy (start) -->
 
 
@@ -91,7 +99,7 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/gjcliff/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/graham-clifford/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://graham-clifford.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
 
 </p>
