@@ -81,8 +81,6 @@
     <img src="https://skillicons.dev/icons?i=cpp,py,c,cmake,lua,bash,ros,docker,neovim,linux,git,raspberrypi,arduino,arch,pytorch,qt,opencv,lua,md,vscode,&perline=10" />
   </a>
 </p>
-
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -111,6 +109,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [gjcliff](https://github.com/gjcliff)
-
-Last Edited on: 29/4/2023
+Last Edited on: 2024-10-14
