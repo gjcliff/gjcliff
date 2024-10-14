@@ -78,7 +78,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,c,cmake,lua,bash,ros,docker,neovim,linux,git,raspberrypi,arduino,arch,pytortch,qt,opencv,lua,md,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,c,cmake,lua,bash,ros,docker,neovim,linux,git,raspberrypi,arduino,arch,pytortch,qt,opencv,lua,md,vscode,&perline=10" />
   </a>
 </p>
 
