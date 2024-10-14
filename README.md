@@ -25,7 +25,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on my [final project](https://github.com/gjcliff/ORB_SLAM3_ROS2) for my Master's in Robotics at Northwestern University.
+- 🔭 I’m currently working on the [final project](https://github.com/gjcliff/ORB_SLAM3_ROS2) for my Master's in Robotics at Northwestern University.
 
 - 🌱 I’m currently learning about ORB_SLAM3, Visual-Inertial SLAM, and localization.
 
