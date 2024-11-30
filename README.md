@@ -23,7 +23,6 @@
 <!--   </ul> -->
 <!-- </div> -->
 
-
 <!--Intro start-->
 - 🔭 I’m currently working on [RTABMap_Semantic_Mapping](https://github.com/gjcliff/RTABMap_Semantic_Mapping) and [ORB_SLAM3_ROS2](https://github.com/gjcliff/ORB_SLAM3_ROS2).
 
@@ -106,13 +105,20 @@
 
 <div align="center">
 
-<img
-src="https://img.shields.io/badge/-Graham%20Clifford-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/graham-clifford/" height="50"/>
-<img
-src="https://img.shields.io/badge/-graham--clifford.com-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://graham-clifford.com/" height="50"/>
-
-<!-- [![Linkedin](https://img.shields.io/badge/-Graham%20Clifford-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/graham-clifford/)](https://www.linkedin.com/in/graham-clifford/) -->
-<!-- [![Website](https://img.shields.io/badge/-graham--clifford.com-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://graham-clifford.com/)](https://graham-clifford.com/) -->
+<a href="https://www.linkedin.com/in/graham-clifford/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/-Graham%20Clifford-blue?style=flat-square&logo=Linkedin&logoColor=white"
+    height="50"
+    alt="LinkedIn"
+  />
+</a>
+<a href="https://graham-clifford.com/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/-graham--clifford.com-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white"
+    height="50"
+    alt="Website"
+  />
+</a>
 
 </div>
 
