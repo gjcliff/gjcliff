@@ -25,7 +25,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on the [final project](https://github.com/gjcliff/ORB_SLAM3_ROS2) for my Master's in Robotics at Northwestern University.
+- 🔭 I’m currently working on [RTABMap_Semantic_Mapping](https://github.com/gjcliff/RTABMap_Semantic_Mapping) and [ORB_SLAM3_ROS2](https://github.com/gjcliff/ORB_SLAM3_ROS2).
 
 - 🌱 I’m currently learning about ORB_SLAM3, Visual-Inertial SLAM, and localization.
 
@@ -38,14 +38,14 @@
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+<!-- <table align="center"> -->
+<!-- <tr border="none"> -->
+<!-- <td width="50%" align="center"> -->
 
   <!-- <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=gjcliff&theme=dark&show_icons=true&count_private=true&rank_icon=percentile" /> -->
-  <br></br>
+  <!-- <br></br> -->
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gjcliff&theme=dark&hide_border=false" />
-</td>
+<!-- </td> -->
 
 <!-- <td width="50%" align="center"> -->
 <!---->
@@ -53,7 +53,7 @@
 <!---->
 <!--   </td> -->
 <!-- </tr> -->
-</table>
+<!-- </table> -->
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
