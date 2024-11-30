@@ -44,7 +44,7 @@
 
   <!-- <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=gjcliff&theme=dark&show_icons=true&count_private=true&rank_icon=percentile" /> -->
   <!-- <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gjcliff&theme=dark&hide_border=false" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gjcliff&theme=dark&hide_border=false" height="300"/>
 <!-- </td> -->
 
 <!-- <td width="50%" align="center"> -->
@@ -91,30 +91,42 @@
 </p>
 <!-- Connect with me -->
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+<!-- <div id="user-content-toc"> -->
+<!--   <ul align="center"> -->
+<!--     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary> -->
+<!--   </ul> -->
+<!-- </div> -->
 
 <!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/graham-clifford/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://graham-clifford.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+<!-- <p align="center"> -->
+<!-- <a href="https://www.linkedin.com/in/graham-clifford/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a> -->
+<!-- <a href="https://graham-clifford.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a> -->
+<!---->
+<!-- </p> -->
 
-</p>
+<div align="center">
+
+<img
+src="https://img.shields.io/badge/-Graham%20Clifford-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/graham-clifford/" height="50"/>
+<img
+src="https://img.shields.io/badge/-graham--clifford.com-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://graham-clifford.com/" height="50"/>
+
+<!-- [![Linkedin](https://img.shields.io/badge/-Graham%20Clifford-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/graham-clifford/)](https://www.linkedin.com/in/graham-clifford/) -->
+<!-- [![Website](https://img.shields.io/badge/-graham--clifford.com-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://graham-clifford.com/)](https://graham-clifford.com/) -->
+
+</div>
 
 
 <!--profile visit count-->
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=gjcliff&icon=3&color=6)](https://visitcount.itsvg.in)
-
-</div>
+<!-- <div align="center"> -->
+<!---->
+<!-- [![](https://visitcount.itsvg.in/api?id=gjcliff&icon=3&color=6)](https://visitcount.itsvg.in) -->
+<!---->
+<!-- </div> -->
 
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 ----------------------------------------------------------------------
 Last Edited on: 2024-10-14
