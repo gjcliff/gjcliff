@@ -24,9 +24,10 @@
 <!-- </div> -->
 
 <!--Intro start-->
-- 🔭 I’m currently working on [RTABMap_Semantic_Mapping](https://github.com/gjcliff/RTABMap_Semantic_Mapping) and [ORB_SLAM3_ROS2](https://github.com/gjcliff/ORB_SLAM3_ROS2).
+- 🔭 I just finished the Final Project for my Master of Science in Robotics degree from Northwestern University: [RTABMap_Semantic_Mapping](https://github.com/gjcliff/RTABMap_Semantic_Mapping).
 
-- 🌱 I’m currently learning about ORB_SLAM3, Visual-Inertial SLAM, and localization.
+- 🌱 I’m currently learning about sensor fusion algorithms such as the Kalman Filters and Particle
+  Filters.
 
 - 💬 Ask me about **ROS2, C++, Python, Computer Vision, and Robotics**
 
