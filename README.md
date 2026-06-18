@@ -31,7 +31,7 @@ Right now I'm working on making a SLAM system. I plan to use light glue for feat
 
 https://github.com/gjcliff/SuperFlow
 
-- 📫 Feel free to reach me at **gclifford@u.northwestern.edu**
+Feel free to reach me at **gclifford@u.northwestern.edu**
 <!--Intro end-->
 
 
