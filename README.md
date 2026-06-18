@@ -29,7 +29,7 @@ I'm a robotics software engineer who loves python, ROS 2, c++, rust, computer vi
 
 Right now I'm working on making a SLAM system. I plan to use light glue for feature detection on the front end, gtsam for state estimation and mapping on the backend, and rerun for visualization. It's tough to find time to work on this, so stay tuned.
 
-https://github.com/gjcliff/SuperFlow.git
+https://github.com/gjcliff/SuperFlow
 
 - 📫 Feel free to reach me at **gclifford@u.northwestern.edu**
 <!--Intro end-->
