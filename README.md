@@ -25,6 +25,7 @@
 
 <!--Intro start-->
 <!-- - 💬 Ask me about **ROS2, C++, Python, Computer Vision, and Robotics** -->
+I'm a robotics software engineer who loves python, ROS 2, c++, rust, computer vision, state estimation, SLAM, and machine learning. 
 - 📫 Feel free to reach me at **gclifford@u.northwestern.edu**
 <!--Intro end-->
 
@@ -80,7 +81,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,c,cmake,lua,bash,ros,docker,neovim,linux,git,raspberrypi,arduino,arch,pytorch,qt,opencv,lua,md,vscode,&perline=10" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,c,rust,cmake,lua,bash,pytorch,opencv,xgboost,ros,docker,neovim,linux,git,raspberrypi,arduino,px4&perline=10" />
   </a>
 </p>
 <!-- Connect with me -->
