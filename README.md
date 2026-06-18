@@ -25,7 +25,12 @@
 
 <!--Intro start-->
 <!-- - 💬 Ask me about **ROS2, C++, Python, Computer Vision, and Robotics** -->
-I'm a robotics software engineer who loves python, ROS 2, c++, rust, computer vision, state estimation, SLAM, and machine learning. 
+I'm a robotics software engineer who loves python, ROS 2, c++, rust, computer vision, state estimation, SLAM, and machine learning.
+
+Right now I'm working on making a SLAM system. I plan to use light glue for feature detection on the front end, gtsam for state estimation and mapping on the backend, and rerun for visualization. It's tough to find time to work on this, so stay tuned.
+
+git@github.com:gjcliff/SuperFlow.git
+
 - 📫 Feel free to reach me at **gclifford@u.northwestern.edu**
 <!--Intro end-->
 
